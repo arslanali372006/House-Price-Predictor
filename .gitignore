@@ -13,4 +13,8 @@ venv/
 datasets/
 
 # Mac system files
-.DS_Storehousing_price_project/my_california_housing_model.pkl
+.DS_Store
+
+# Model artifacts
+housing_price_project/my_california_housing_model.pkl
+*.pkl
