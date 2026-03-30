@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data (important for ML projects)
+datasets/
+
+# Mac system files
+.DS_Storehousing_price_project/my_california_housing_model.pkl
